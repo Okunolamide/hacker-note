@@ -1,4 +1,4 @@
-### All in One Hacking tool For Hackers🥇
+### All in One Hacking tool For Hackers by okunolamide
 ![](https://img.shields.io/github/license/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
@@ -9,7 +9,7 @@
 [![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 
-#### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://youtu.be/BsFhpIDcd9I) or use Docker
+#### Install Kali Linux or parrot os 
 
 ## Update Available V1.2.0 🚀 
 - [✔] Installation Bug Fixed
@@ -284,11 +284,10 @@ Enter the options and continue.
 - [ ] Add Tools for CTF
 - [ ] Want to do automatic 
 
-## Social Media :mailbox_with_no_mail:
-[![GitHub]()
-![OKUNOLAMIDE's github stats](https://github-readme-stats.vercel.app/api?username=Z4nzu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 #### Don't Forgot to share with Your Friends 
 ### The new Update get will soon stay updated
+
+
 ### OKUNOLAMIDE
 #### Thank you..!!
